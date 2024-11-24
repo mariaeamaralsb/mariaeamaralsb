@@ -23,5 +23,3 @@ In addition, I possess substantial expertise in cloud technologies, particularly
 </div>
 
 
-##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeamaralsb&hide_progress=true)
